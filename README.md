@@ -1,6 +1,12 @@
 # L-system
 
-Simple implementation of L-system using turtle python3
+Simple implementation of L-system using turtle python3.
+This repo was a try on L-system in just few hrs. The code is not well written.
+
+## Reference
+
+* https://natureofcode.com/
+* https://runestone.academy/
 
 ![triangle](./img/triangle.png)
 
